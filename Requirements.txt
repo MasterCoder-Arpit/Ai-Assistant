@@ -1,0 +1,7 @@
+pyjokes
+GoogleNews
+pyttsx3
+SpeechRecognition
+wikipedia
+googlesearch-python
+psutil 
