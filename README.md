@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/license/ProgrammingwithArpit/Ai-Assistant)
-![](https://img.shields.io/github/followers/ProgrammingwithArpit?style=social)
+![GitHub](https://img.shields.io/github/followers/ProgrammingwithArpit?label=Follow%20Me%21&style=social)
 
 # Ai Assistant
 
