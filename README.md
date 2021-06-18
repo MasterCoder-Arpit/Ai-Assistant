@@ -16,7 +16,7 @@ clone this to your local device
 ## Contributing
 
 - Arpit Agarwal <programminwitharpit@gmail.com>
-- Neha Agarwal <programminwithneha@gmail.com>
+- Neha Agarwal <programmingwithneha@gmail.com>
 
   
 ## Authors
