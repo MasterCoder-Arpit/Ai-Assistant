@@ -21,6 +21,6 @@ clone this to your local device
   
 ## Authors
 
-- [@Programmingwitharpit](https://github.com/ProgrammingwithArpit/)
+- [@ArpitProgrammer](https://github.com/ArpitProgrammer/)
 
   
