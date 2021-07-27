@@ -16,7 +16,6 @@ clone this to your local device
 ## Contributing
 
 - Arpit Agarwal
-- Neha Agarwal 
 
   
 ## Authors
