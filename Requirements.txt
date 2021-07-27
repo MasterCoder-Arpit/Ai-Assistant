@@ -5,3 +5,6 @@ SpeechRecognition
 wikipedia
 googlesearch-python
 psutil 
+pyautogui
+wolframalpha
+pywhatkit
