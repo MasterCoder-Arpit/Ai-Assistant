@@ -11,8 +11,10 @@ clone this to your local device
 ```bash
   git clone https://github.com/ProgrammingwithArpit/Ai-Assistant/
 ```
-
-
+To install requirements 
+```bash
+  pip install -r Requirements.txt
+```
 ## Contributing
 
 - Arpit Agarwal
