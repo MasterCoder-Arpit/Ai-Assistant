@@ -22,6 +22,6 @@ To install requirements
   
 ## Authors
 
-- [@ArpitProgrammer](https://github.com/MasterCoder-Arpit/)
+- [@MasterCoder-Arpit](https://github.com/MasterCoder-Arpit/)
 
   
