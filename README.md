@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/license/ProgrammingwithArpit/Ai-Assistant)
-![GitHub](https://img.shields.io/github/followers/ArpitProgrammer?label=Follow%20Me%21&style=social)
+![GitHub](https://img.shields.io/github/followers/MasterCoder-Arpit?label=Follow%20Me%21&style=social)
 
 # Ai Assistant
 
