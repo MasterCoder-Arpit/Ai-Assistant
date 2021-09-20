@@ -9,7 +9,7 @@ A Assistant which will help you increase your productivity and effiency verbally
 #Setup:
 clone this to your local device
 ```bash
-  git clone https://github.com/ProgrammingwithArpit/Ai-Assistant/
+  git clone https://github.com/MasterCoder-Arpit/Ai-Assistant/
 ```
 To install requirements 
 ```bash
